@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1636569056 source:c:\users\dear user\desktop\new folder (4)\faz1-ap-9612358041\main.cpp
+	<iostream>
+	<string>
+	"Tailor.h"
+	"Color.h"
+	"Design.h"
+
+1636533283 source:c:\users\dear user\desktop\new folder (4)\faz1-ap-9612358041\src\tailor.cpp
+	"Tailor.h"
+	<iostream>
+	<string>
+
+1636534113 c:\users\dear user\desktop\new folder (4)\faz1-ap-9612358041\include\tailor.h
+	<iostream>
+	<string>
+
+1636536472 source:c:\users\dear user\desktop\new folder (4)\faz1-ap-9612358041\src\cloth.cpp
+	"Cloth.h"
+	<iostream>
+	<string>
+
+1636536473 c:\users\dear user\desktop\new folder (4)\faz1-ap-9612358041\include\cloth.h
+	<iostream>
+	<string>
+
+1636559632 source:c:\users\dear user\desktop\new folder (4)\faz1-ap-9612358041\src\color.cpp
+	<iostream>
+	<string>
+	"Color.h"
+
+1636558877 c:\users\dear user\desktop\new folder (4)\faz1-ap-9612358041\include\color.h
+	<iostream>
+	<string>
+
+1636569020 source:c:\users\dear user\desktop\new folder (4)\faz1-ap-9612358041\src\design.cpp
+	<iostream>
+	<string>
+	"Design.h"
+
+1636568037 c:\users\dear user\desktop\new folder (4)\faz1-ap-9612358041\include\design.h
+	<iostream>
+	<string>
+
